@@ -14,7 +14,7 @@
    
 ## Sosy do pizzy 
 
-<img src = "" width = 300>
+<img src = "https://github.com/mebedron/pizzeriacdv67/blob/main/img/sos-czosnkowy-ika.jpg" width = 300>
 
 1. Sos ketchup - 5 zł
 2. Sos czosnkowy - 5 zł
@@ -23,7 +23,7 @@
 
 ## Napoje 
 
-<img src = "" width = 300>
+<img src = "https://github.com/mebedron/pizzeriacdv67/blob/main/img/pomysly-na-napoje-ktore-schlodza-cie-w-upalny-dzien-1080.jpeg" width = 300>
 
 |Lp.| Napoje:               |Cena:|
 |---|-----------------------|-----|
