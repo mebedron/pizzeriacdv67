@@ -2,7 +2,7 @@
 
 ## Pizze klasyczne 
 
-<img src = "" width = 300>
+<img src = "https://github.com/mebedron/pizzeriacdv67/blob/main/img/pizza-z-oliwkami-pomidorami-i-oliwkami_1268410-858.jpg.avif" width = 300>
 
 |Lp.|Pizza:                                             |Rozmiar: |30cm |40cm |50cm
 |---|-------------------------------------------------------|---------|-----|-----|-----|
