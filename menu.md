@@ -12,6 +12,9 @@
 |4. |VESUVIO (sos pomidorowy, podwójny ser, szynka)         |         |22 zł|32 zł|42 zł|
 |5. |MILANO (sos pomidorowy, ser, szynka, papryka, oregano) |         |27 zł|37 zł|47 zł|
    
+   bambambam
+   
+   
 ## Sosy do pizzy 
 
 <img src = "https://github.com/mebedron/pizzeriacdv67/blob/main/img/sos-czosnkowy-ika.jpg" width = 300>
